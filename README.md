@@ -4,7 +4,7 @@ Bom, este é o meu primeiro projeto "Accordion". Embora seja extremamente simple
 
 Infelizmente, não tive tempo de ajeitar ele para o MOBILE. 
 
-![](./src/images/Bloodborne%20.gif)
+![](./images/Bloodborne%20.gif)
 
 ### O que foi utilizado na produção do site:
 
